@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="border_color">#FFCCCCCC</color>
+    <color name="link">#4981e2</color>
+    <color name="primary">#FF011120</color>
+    <color name="primary_variant">#FF01012B</color>
+    <color name="background">@color/white</color>
+    <color name="text_color">@color/primary</color>
+
+    <color name="border_color_focus_input">@color/primary</color>
+    <color name="icon_input_color">@color/primary</color>
+    <color name="background_button">@color/primary</color>
+    <color name="foreground_button">@color/white</color>
+    <color name="foreground_button_empty">@color/primary</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Demo Chat</string>
+    <string name="text_title_login">"S'indentifier"</string>
+    <string name="text_title_register">"S'inscription"</string>
+    <string name="hint_login_email">Email</string>
+    <string name="hint_register_names">Noms</string>
+    <string name="text_login_password">Mot de passe</string>
+    <string name="text_register_validate_password">Confirmer le mot de passe</string>
+    <string name="text_login_forgotten_password">Mot de passe oublié ?</string>
+    <string name="text_button_login">Se connecter</string>
+    <string name="text_button_register">Créer mon compte</string>
+    <string name="text_login_or_social">ou utiliser un réseau social</string>
+    <string name="text_login_question_create_account">"Vous n'avez pas de compte?"</string>
+    <string name="text_login_create_account">Créer un compte</string>
+</resources>
